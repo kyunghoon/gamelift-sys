@@ -1,7 +1,7 @@
 use anyhow::Result;
 
 fn go() -> Result<()> {
-    Ok(())
+    unimplemented!("gamelift unsupported on this platform");
 }
 
 fn main() {
